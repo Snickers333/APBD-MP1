@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Excercise1": {
+      "commandName": "Project",
+      "commandLineArgs": "https://szpitalmadalinskiego.pl/pl/kontakt"
+    }
+  }
+}
